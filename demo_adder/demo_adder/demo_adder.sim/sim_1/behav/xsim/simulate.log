@@ -1,0 +1,1345 @@
+Time resolution is 1 ps
+Error: ERROR in addition!
+Time: 11 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 1
+Time: 11 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 15(inputs A =0,B = 1)
+Time: 11 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 21 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 2
+Time: 21 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 14(inputs A =0,B = 2)
+Time: 21 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 31 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 3
+Time: 31 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 13(inputs A =0,B = 3)
+Time: 31 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 41 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 4
+Time: 41 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 12(inputs A =0,B = 4)
+Time: 41 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 51 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 5
+Time: 51 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 11(inputs A =0,B = 5)
+Time: 51 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 61 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 6
+Time: 61 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 10(inputs A =0,B = 6)
+Time: 61 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 71 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 7
+Time: 71 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 9(inputs A =0,B = 7)
+Time: 71 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 91 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 8
+Time: 91 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 7(inputs A =0,B = 9)
+Time: 91 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 9
+Time: 101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 6(inputs A =0,B = 10)
+Time: 101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 10
+Time: 111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 5(inputs A =0,B = 11)
+Time: 111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 121 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 11
+Time: 121 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 4(inputs A =0,B = 12)
+Time: 121 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 12
+Time: 131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 3(inputs A =0,B = 13)
+Time: 131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 13
+Time: 141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 2(inputs A =0,B = 14)
+Time: 141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 14
+Time: 151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 1(inputs A =0,B = 15)
+Time: 151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 15
+Time: 171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 0(inputs A =1,B = 1)
+Time: 171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 16
+Time: 181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 15(inputs A =1,B = 2)
+Time: 181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 17
+Time: 191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 14(inputs A =1,B = 3)
+Time: 191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 201 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 18
+Time: 201 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 13(inputs A =1,B = 4)
+Time: 201 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 19
+Time: 211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 12(inputs A =1,B = 5)
+Time: 211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 20
+Time: 221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 11(inputs A =1,B = 6)
+Time: 221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 21
+Time: 231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 10(inputs A =1,B = 7)
+Time: 231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 22
+Time: 251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 8(inputs A =1,B = 9)
+Time: 251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 23
+Time: 261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 7(inputs A =1,B = 10)
+Time: 261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 24
+Time: 271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 6(inputs A =1,B = 11)
+Time: 271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 281 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 25
+Time: 281 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 5(inputs A =1,B = 12)
+Time: 281 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 26
+Time: 291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 4(inputs A =1,B = 13)
+Time: 291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 27
+Time: 301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 3(inputs A =1,B = 14)
+Time: 301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 28
+Time: 311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 2(inputs A =1,B = 15)
+Time: 311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 29
+Time: 331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 1(inputs A =2,B = 1)
+Time: 331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 30
+Time: 341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 0(inputs A =2,B = 2)
+Time: 341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 31
+Time: 351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 15(inputs A =2,B = 3)
+Time: 351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 361 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 32
+Time: 361 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 14(inputs A =2,B = 4)
+Time: 361 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 33
+Time: 371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 13(inputs A =2,B = 5)
+Time: 371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 34
+Time: 381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 12(inputs A =2,B = 6)
+Time: 381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 35
+Time: 391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 11(inputs A =2,B = 7)
+Time: 391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 36
+Time: 411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 9(inputs A =2,B = 9)
+Time: 411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 37
+Time: 421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 8(inputs A =2,B = 10)
+Time: 421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 38
+Time: 431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 7(inputs A =2,B = 11)
+Time: 431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 441 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 39
+Time: 441 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 6(inputs A =2,B = 12)
+Time: 441 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 40
+Time: 451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 5(inputs A =2,B = 13)
+Time: 451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 41
+Time: 461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 4(inputs A =2,B = 14)
+Time: 461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 42
+Time: 471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 3(inputs A =2,B = 15)
+Time: 471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 43
+Time: 491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 2(inputs A =3,B = 1)
+Time: 491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 44
+Time: 501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 1(inputs A =3,B = 2)
+Time: 501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 45
+Time: 511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 0(inputs A =3,B = 3)
+Time: 511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 521 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 46
+Time: 521 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 15(inputs A =3,B = 4)
+Time: 521 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 47
+Time: 531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 14(inputs A =3,B = 5)
+Time: 531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 48
+Time: 541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 13(inputs A =3,B = 6)
+Time: 541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 49
+Time: 551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 12(inputs A =3,B = 7)
+Time: 551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 571 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 50
+Time: 571 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 10(inputs A =3,B = 9)
+Time: 571 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 581 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 51
+Time: 581 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 9(inputs A =3,B = 10)
+Time: 581 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 591 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 52
+Time: 591 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 8(inputs A =3,B = 11)
+Time: 591 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 601 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 53
+Time: 601 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 7(inputs A =3,B = 12)
+Time: 601 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 611 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 54
+Time: 611 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 6(inputs A =3,B = 13)
+Time: 611 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 621 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 55
+Time: 621 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 5(inputs A =3,B = 14)
+Time: 621 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 631 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 56
+Time: 631 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 4(inputs A =3,B = 15)
+Time: 631 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 651 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 57
+Time: 651 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 3(inputs A =4,B = 1)
+Time: 651 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 661 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 58
+Time: 661 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 2(inputs A =4,B = 2)
+Time: 661 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 671 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 59
+Time: 671 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 1(inputs A =4,B = 3)
+Time: 671 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 681 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 60
+Time: 681 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 0(inputs A =4,B = 4)
+Time: 681 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 691 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 61
+Time: 691 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 15(inputs A =4,B = 5)
+Time: 691 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 701 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 62
+Time: 701 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 14(inputs A =4,B = 6)
+Time: 701 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 711 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 63
+Time: 711 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 13(inputs A =4,B = 7)
+Time: 711 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 731 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 64
+Time: 731 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 11(inputs A =4,B = 9)
+Time: 731 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 741 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 65
+Time: 741 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 10(inputs A =4,B = 10)
+Time: 741 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 751 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 66
+Time: 751 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 9(inputs A =4,B = 11)
+Time: 751 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 761 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 67
+Time: 761 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 8(inputs A =4,B = 12)
+Time: 761 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 771 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 68
+Time: 771 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 7(inputs A =4,B = 13)
+Time: 771 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 781 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 69
+Time: 781 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 6(inputs A =4,B = 14)
+Time: 781 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 791 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 70
+Time: 791 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 5(inputs A =4,B = 15)
+Time: 791 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 811 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 71
+Time: 811 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 4(inputs A =5,B = 1)
+Time: 811 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 821 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 72
+Time: 821 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 3(inputs A =5,B = 2)
+Time: 821 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 831 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 73
+Time: 831 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 2(inputs A =5,B = 3)
+Time: 831 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 841 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 74
+Time: 841 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 1(inputs A =5,B = 4)
+Time: 841 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 851 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 75
+Time: 851 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 0(inputs A =5,B = 5)
+Time: 851 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 861 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 76
+Time: 861 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 15(inputs A =5,B = 6)
+Time: 861 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 871 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 77
+Time: 871 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 14(inputs A =5,B = 7)
+Time: 871 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 891 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 78
+Time: 891 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 12(inputs A =5,B = 9)
+Time: 891 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 901 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 79
+Time: 901 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 11(inputs A =5,B = 10)
+Time: 901 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 911 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 80
+Time: 911 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 10(inputs A =5,B = 11)
+Time: 911 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 921 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 81
+Time: 921 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 9(inputs A =5,B = 12)
+Time: 921 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 931 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 82
+Time: 931 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 8(inputs A =5,B = 13)
+Time: 931 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 941 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 83
+Time: 941 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 7(inputs A =5,B = 14)
+Time: 941 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 951 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 84
+Time: 951 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 6(inputs A =5,B = 15)
+Time: 951 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 971 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 85
+Time: 971 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 5(inputs A =6,B = 1)
+Time: 971 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 981 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 86
+Time: 981 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 4(inputs A =6,B = 2)
+Time: 981 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 991 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 87
+Time: 991 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 3(inputs A =6,B = 3)
+Time: 991 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1001 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 88
+Time: 1001 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 2(inputs A =6,B = 4)
+Time: 1001 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1011 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 89
+Time: 1011 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 1(inputs A =6,B = 5)
+Time: 1011 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1021 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 90
+Time: 1021 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 0(inputs A =6,B = 6)
+Time: 1021 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1031 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 91
+Time: 1031 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 15(inputs A =6,B = 7)
+Time: 1031 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1051 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 92
+Time: 1051 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 13(inputs A =6,B = 9)
+Time: 1051 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1061 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 93
+Time: 1061 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 12(inputs A =6,B = 10)
+Time: 1061 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1071 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 94
+Time: 1071 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 11(inputs A =6,B = 11)
+Time: 1071 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1081 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 95
+Time: 1081 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 10(inputs A =6,B = 12)
+Time: 1081 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1091 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 96
+Time: 1091 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 9(inputs A =6,B = 13)
+Time: 1091 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 97
+Time: 1101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 8(inputs A =6,B = 14)
+Time: 1101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 98
+Time: 1111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 7(inputs A =6,B = 15)
+Time: 1111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 99
+Time: 1131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 6(inputs A =7,B = 1)
+Time: 1131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 100
+Time: 1141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 5(inputs A =7,B = 2)
+Time: 1141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 101
+Time: 1151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 4(inputs A =7,B = 3)
+Time: 1151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1161 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 102
+Time: 1161 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 3(inputs A =7,B = 4)
+Time: 1161 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 103
+Time: 1171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 2(inputs A =7,B = 5)
+Time: 1171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 104
+Time: 1181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 1(inputs A =7,B = 6)
+Time: 1181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 105
+Time: 1191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 0(inputs A =7,B = 7)
+Time: 1191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 106
+Time: 1211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 14(inputs A =7,B = 9)
+Time: 1211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 107
+Time: 1221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 13(inputs A =7,B = 10)
+Time: 1221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 108
+Time: 1231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 12(inputs A =7,B = 11)
+Time: 1231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1241 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 109
+Time: 1241 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 11(inputs A =7,B = 12)
+Time: 1241 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 110
+Time: 1251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 10(inputs A =7,B = 13)
+Time: 1251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 111
+Time: 1261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 9(inputs A =7,B = 14)
+Time: 1261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 112
+Time: 1271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 8(inputs A =7,B = 15)
+Time: 1271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 113
+Time: 1291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 7(inputs A =8,B = 1)
+Time: 1291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 114
+Time: 1301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 6(inputs A =8,B = 2)
+Time: 1301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 115
+Time: 1311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 5(inputs A =8,B = 3)
+Time: 1311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1321 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 116
+Time: 1321 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 4(inputs A =8,B = 4)
+Time: 1321 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 117
+Time: 1331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 3(inputs A =8,B = 5)
+Time: 1331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 118
+Time: 1341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 2(inputs A =8,B = 6)
+Time: 1341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 119
+Time: 1351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 1(inputs A =8,B = 7)
+Time: 1351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 120
+Time: 1371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 15(inputs A =8,B = 9)
+Time: 1371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 121
+Time: 1381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 14(inputs A =8,B = 10)
+Time: 1381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 122
+Time: 1391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 13(inputs A =8,B = 11)
+Time: 1391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1401 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 123
+Time: 1401 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 12(inputs A =8,B = 12)
+Time: 1401 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 124
+Time: 1411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 11(inputs A =8,B = 13)
+Time: 1411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 125
+Time: 1421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 10(inputs A =8,B = 14)
+Time: 1421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 126
+Time: 1431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 9(inputs A =8,B = 15)
+Time: 1431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 127
+Time: 1451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 8(inputs A =9,B = 1)
+Time: 1451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 128
+Time: 1461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 7(inputs A =9,B = 2)
+Time: 1461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 129
+Time: 1471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 6(inputs A =9,B = 3)
+Time: 1471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1481 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 130
+Time: 1481 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 5(inputs A =9,B = 4)
+Time: 1481 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 131
+Time: 1491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 4(inputs A =9,B = 5)
+Time: 1491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 132
+Time: 1501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 3(inputs A =9,B = 6)
+Time: 1501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 133
+Time: 1511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 2(inputs A =9,B = 7)
+Time: 1511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 134
+Time: 1531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 0(inputs A =9,B = 9)
+Time: 1531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 135
+Time: 1541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 15(inputs A =9,B = 10)
+Time: 1541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 136
+Time: 1551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 14(inputs A =9,B = 11)
+Time: 1551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1561 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 137
+Time: 1561 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 13(inputs A =9,B = 12)
+Time: 1561 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1571 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 138
+Time: 1571 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 12(inputs A =9,B = 13)
+Time: 1571 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1581 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 139
+Time: 1581 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 11(inputs A =9,B = 14)
+Time: 1581 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1591 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 140
+Time: 1591 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 10(inputs A =9,B = 15)
+Time: 1591 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1611 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 141
+Time: 1611 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 9(inputs A =10,B = 1)
+Time: 1611 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1621 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 142
+Time: 1621 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 8(inputs A =10,B = 2)
+Time: 1621 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1631 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 143
+Time: 1631 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 7(inputs A =10,B = 3)
+Time: 1631 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1641 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 144
+Time: 1641 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 6(inputs A =10,B = 4)
+Time: 1641 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1651 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 145
+Time: 1651 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 5(inputs A =10,B = 5)
+Time: 1651 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1661 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 146
+Time: 1661 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 4(inputs A =10,B = 6)
+Time: 1661 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1671 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 147
+Time: 1671 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 3(inputs A =10,B = 7)
+Time: 1671 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1691 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 148
+Time: 1691 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 1(inputs A =10,B = 9)
+Time: 1691 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1701 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 149
+Time: 1701 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 0(inputs A =10,B = 10)
+Time: 1701 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1711 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 150
+Time: 1711 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 15(inputs A =10,B = 11)
+Time: 1711 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1721 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 151
+Time: 1721 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 14(inputs A =10,B = 12)
+Time: 1721 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1731 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 152
+Time: 1731 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 13(inputs A =10,B = 13)
+Time: 1731 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1741 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 153
+Time: 1741 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 12(inputs A =10,B = 14)
+Time: 1741 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1751 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 154
+Time: 1751 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 11(inputs A =10,B = 15)
+Time: 1751 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1771 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 155
+Time: 1771 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 10(inputs A =11,B = 1)
+Time: 1771 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1781 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 156
+Time: 1781 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 9(inputs A =11,B = 2)
+Time: 1781 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1791 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 157
+Time: 1791 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 8(inputs A =11,B = 3)
+Time: 1791 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1801 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 158
+Time: 1801 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 7(inputs A =11,B = 4)
+Time: 1801 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1811 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 159
+Time: 1811 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 6(inputs A =11,B = 5)
+Time: 1811 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1821 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 160
+Time: 1821 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 5(inputs A =11,B = 6)
+Time: 1821 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1831 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 161
+Time: 1831 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 4(inputs A =11,B = 7)
+Time: 1831 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1851 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 162
+Time: 1851 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 2(inputs A =11,B = 9)
+Time: 1851 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1861 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 163
+Time: 1861 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 1(inputs A =11,B = 10)
+Time: 1861 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1871 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 164
+Time: 1871 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 0(inputs A =11,B = 11)
+Time: 1871 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1881 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 165
+Time: 1881 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 15(inputs A =11,B = 12)
+Time: 1881 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1891 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 166
+Time: 1891 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 14(inputs A =11,B = 13)
+Time: 1891 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1901 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 167
+Time: 1901 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 13(inputs A =11,B = 14)
+Time: 1901 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1911 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 168
+Time: 1911 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 12(inputs A =11,B = 15)
+Time: 1911 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1931 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 169
+Time: 1931 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 11(inputs A =12,B = 1)
+Time: 1931 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1941 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 170
+Time: 1941 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 10(inputs A =12,B = 2)
+Time: 1941 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1951 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 171
+Time: 1951 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 9(inputs A =12,B = 3)
+Time: 1951 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1961 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 172
+Time: 1961 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 8(inputs A =12,B = 4)
+Time: 1961 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1971 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 173
+Time: 1971 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 7(inputs A =12,B = 5)
+Time: 1971 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1981 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 174
+Time: 1981 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 6(inputs A =12,B = 6)
+Time: 1981 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 1991 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 175
+Time: 1991 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 5(inputs A =12,B = 7)
+Time: 1991 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2011 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 176
+Time: 2011 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 3(inputs A =12,B = 9)
+Time: 2011 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2021 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 177
+Time: 2021 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 2(inputs A =12,B = 10)
+Time: 2021 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2031 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 178
+Time: 2031 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 1(inputs A =12,B = 11)
+Time: 2031 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2041 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 179
+Time: 2041 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 0(inputs A =12,B = 12)
+Time: 2041 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2051 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 180
+Time: 2051 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 15(inputs A =12,B = 13)
+Time: 2051 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2061 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 181
+Time: 2061 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 14(inputs A =12,B = 14)
+Time: 2061 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2071 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 182
+Time: 2071 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 13(inputs A =12,B = 15)
+Time: 2071 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2091 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 183
+Time: 2091 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 12(inputs A =13,B = 1)
+Time: 2091 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 184
+Time: 2101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 11(inputs A =13,B = 2)
+Time: 2101 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 185
+Time: 2111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 10(inputs A =13,B = 3)
+Time: 2111 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2121 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 186
+Time: 2121 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 9(inputs A =13,B = 4)
+Time: 2121 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 187
+Time: 2131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 8(inputs A =13,B = 5)
+Time: 2131 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 188
+Time: 2141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 7(inputs A =13,B = 6)
+Time: 2141 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 189
+Time: 2151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 6(inputs A =13,B = 7)
+Time: 2151 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 190
+Time: 2171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 4(inputs A =13,B = 9)
+Time: 2171 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 191
+Time: 2181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 3(inputs A =13,B = 10)
+Time: 2181 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 192
+Time: 2191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 2(inputs A =13,B = 11)
+Time: 2191 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2201 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 193
+Time: 2201 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 1(inputs A =13,B = 12)
+Time: 2201 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 194
+Time: 2211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 0(inputs A =13,B = 13)
+Time: 2211 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 195
+Time: 2221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 15(inputs A =13,B = 14)
+Time: 2221 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 196
+Time: 2231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 14(inputs A =13,B = 15)
+Time: 2231 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 197
+Time: 2251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 15, actual Y = 13(inputs A =14,B = 1)
+Time: 2251 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 198
+Time: 2261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 12(inputs A =14,B = 2)
+Time: 2261 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 199
+Time: 2271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 11(inputs A =14,B = 3)
+Time: 2271 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2281 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 200
+Time: 2281 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 10(inputs A =14,B = 4)
+Time: 2281 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 201
+Time: 2291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 9(inputs A =14,B = 5)
+Time: 2291 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 202
+Time: 2301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 8(inputs A =14,B = 6)
+Time: 2301 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 203
+Time: 2311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 7(inputs A =14,B = 7)
+Time: 2311 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 204
+Time: 2331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 7, actual Y = 5(inputs A =14,B = 9)
+Time: 2331 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 205
+Time: 2341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 4(inputs A =14,B = 10)
+Time: 2341 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 206
+Time: 2351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 3(inputs A =14,B = 11)
+Time: 2351 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2361 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 207
+Time: 2361 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 2(inputs A =14,B = 12)
+Time: 2361 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 208
+Time: 2371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 1(inputs A =14,B = 13)
+Time: 2371 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 209
+Time: 2381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 0(inputs A =14,B = 14)
+Time: 2381 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 210
+Time: 2391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 15(inputs A =14,B = 15)
+Time: 2391 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 211
+Time: 2411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 0, actual Y = 14(inputs A =15,B = 1)
+Time: 2411 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 212
+Time: 2421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 1, actual Y = 13(inputs A =15,B = 2)
+Time: 2421 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 213
+Time: 2431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 2, actual Y = 12(inputs A =15,B = 3)
+Time: 2431 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2441 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 214
+Time: 2441 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 3, actual Y = 11(inputs A =15,B = 4)
+Time: 2441 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 215
+Time: 2451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 4, actual Y = 10(inputs A =15,B = 5)
+Time: 2451 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 216
+Time: 2461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 5, actual Y = 9(inputs A =15,B = 6)
+Time: 2461 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 217
+Time: 2471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 6, actual Y = 8(inputs A =15,B = 7)
+Time: 2471 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 218
+Time: 2491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 8, actual Y = 6(inputs A =15,B = 9)
+Time: 2491 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 219
+Time: 2501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 9, actual Y = 5(inputs A =15,B = 10)
+Time: 2501 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 220
+Time: 2511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 10, actual Y = 4(inputs A =15,B = 11)
+Time: 2511 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2521 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 221
+Time: 2521 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 11, actual Y = 3(inputs A =15,B = 12)
+Time: 2521 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 222
+Time: 2531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 12, actual Y = 2(inputs A =15,B = 13)
+Time: 2531 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 223
+Time: 2541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 13, actual Y = 1(inputs A =15,B = 14)
+Time: 2541 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition!
+Time: 2551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Error: ERROR in addition! Cerrent error count: 224
+Time: 2551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
+Note: ERROR: expected Y = 14, actual Y = 0(inputs A =15,B = 15)
+Time: 2551 ns  Iteration: 0  Process: /simple_adder_tb/line__74  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/demo_adder/SOURCES/simple_adder_tb.vhd
