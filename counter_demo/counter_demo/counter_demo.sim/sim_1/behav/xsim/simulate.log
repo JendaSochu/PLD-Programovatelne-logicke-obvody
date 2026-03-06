@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Note: ==== Checking count enable (CE) and count up (CNT_UP = '1') functionality...
+Time: 60 ns  Iteration: 0  Process: /cnt_bin_tb/line__64  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/counter_demo/SOURCES/cnt_bin_tb.vhd
+Note: ==== Checking reset (SRST) functionality...
+Time: 2260 ns  Iteration: 0  Process: /cnt_bin_tb/line__64  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/counter_demo/SOURCES/cnt_bin_tb.vhd
+Note: ==== Checking count enable (CE) and count down (CNT_UP = '0') functionality...
+Time: 2480 ns  Iteration: 0  Process: /cnt_bin_tb/line__64  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/counter_demo/SOURCES/cnt_bin_tb.vhd
+Note: ==== Checking load (CNT_LOAD) functionality...
+Time: 4680 ns  Iteration: 0  Process: /cnt_bin_tb/line__64  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/counter_demo/SOURCES/cnt_bin_tb.vhd
+Warning: !!!! CNT_LOAD function error
+Time: 4700 ns  Iteration: 0  Process: /cnt_bin_tb/line__64  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/counter_demo/SOURCES/cnt_bin_tb.vhd
+Error: 
+================================================================
+Simulation FAILED, 1 errors detected.
+================================================================
+
+Time: 4700 ns  Iteration: 0  Process: /cnt_bin_tb/line__64  File: C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/counter_demo/SOURCES/cnt_bin_tb.vhd
