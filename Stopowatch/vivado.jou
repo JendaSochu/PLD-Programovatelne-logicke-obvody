@@ -1,0 +1,123 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri Mar 13 08:43:50 2026
+# Process ID         : 2148
+# Current directory  : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13752 C:\Users\xsocha01\PLD-Programovatelne-logicke-obvody\Stopowatch\Stopwatch.xpr
+# Log file           : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/vivado.log
+# Journal file       : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch\vivado.jou
+# Running On         : PC-SC660-29
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i5-14600K
+# CPU Frequency      : 3494 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 34088 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 39188 MB
+# Available Virtual  : 32123 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+source ce_gen_tb.tcl
+restart
+run all
+close_sim
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top bcd_counter_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source bcd_counter_tb.tcl
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+relaunch_sim
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+run all
+restart
+run all
+run all
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
