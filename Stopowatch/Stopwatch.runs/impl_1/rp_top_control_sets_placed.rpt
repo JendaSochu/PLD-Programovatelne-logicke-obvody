@@ -1,0 +1,88 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Fri Mar 20 09:41:52 2026
+| Host         : PC-SC660-29 running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file rp_top_control_sets_placed.rpt
+| Design       : rp_top
+| Device       : xc7z010
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |    10 |
+|    Minimum number of control sets                        |    10 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |    32 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |    10 |
+| >= 0 to < 4        |     0 |
+| >= 4 to < 6        |     5 |
+| >= 6 to < 8        |     0 |
+| >= 8 to < 10       |     1 |
+| >= 10 to < 12      |     0 |
+| >= 12 to < 14      |     1 |
+| >= 14 to < 16      |     0 |
+| >= 16              |     3 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              27 |           12 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |              37 |           13 |
+| Yes          | No                    | No                     |              32 |            9 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |              16 |            6 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------+----------------------------------------------------+----------------------------------------------+------------------+----------------+--------------+
+|  Clock Signal  |                    Enable Signal                   |               Set/Reset Signal               | Slice Load Count | Bel Load Count | Bels / Slice |
++----------------+----------------------------------------------------+----------------------------------------------+------------------+----------------+--------------+
+|  CLK_IBUF_BUFG | bcd_counter_i/sig_cnt_3[0]                         | stopwatch_fsm_i/SR[0]                        |                1 |              4 |         4.00 |
+|  CLK_IBUF_BUFG | stopwatch_fsm_i/E[0]                               | stopwatch_fsm_i/SR[0]                        |                1 |              4 |         4.00 |
+|  CLK_IBUF_BUFG | stopwatch_fsm_i/FSM_sequential_pres_st_reg[1]_0[0] | stopwatch_fsm_i/SR[0]                        |                2 |              4 |         2.00 |
+|  CLK_IBUF_BUFG | stopwatch_fsm_i/FSM_sequential_pres_st_reg[1]_1[0] | stopwatch_fsm_i/SR[0]                        |                2 |              4 |         2.00 |
+|  CLK_IBUF_BUFG |                                                    | seg_disp_driver_i/pres_st_seg_mux[2]         |                3 |              5 |         1.67 |
+|  CLK_IBUF_BUFG | ce_gen_i/ce_100hz                                  |                                              |                2 |              8 |         4.00 |
+|  CLK_IBUF_BUFG |                                                    | seg_disp_driver_i/cnt_clk_en_seg[13]_i_1_n_0 |                4 |             13 |         3.25 |
+|  CLK_IBUF_BUFG |                                                    | ce_gen_i/clk_counter[18]_i_1_n_0             |                6 |             19 |         3.17 |
+|  CLK_IBUF_BUFG | stopwatch_fsm_i/FSM_sequential_pres_st_reg[2]_0[0] |                                              |                7 |             24 |         3.43 |
+|  CLK_IBUF_BUFG |                                                    |                                              |               12 |             27 |         2.25 |
++----------------+----------------------------------------------------+----------------------------------------------+------------------+----------------+--------------+
+
+

@@ -108,7 +108,7 @@ BEGIN
     cnt_reset   <= '0';
     WAIT FOR C_CLK_PERIOD * 1;
     cnt_enable   <= '1';
-    WAIT FOR C_CLK_PERIOD * 200;
+    WAIT FOR C_CLK_PERIOD * 60500;
     ------------------------------------------------------------------------------
     -- place your own stimuli below
     ------------------------------------------------------------------------------

@@ -1,0 +1,146 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri Mar 20 08:13:53 2026
+# Process ID         : 2892
+# Current directory  : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent5436 C:\Users\xsocha01\PLD-Programovatelne-logicke-obvody\Stopowatch\Stopwatch.xpr
+# Log file           : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/vivado.log
+# Journal file       : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch\vivado.jou
+# Running On         : PC-SC660-29
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i5-14600K
+# CPU Frequency      : 3494 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 34088 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 39188 MB
+# Available Virtual  : 33866 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source bcd_counter_tb.tcl
+restart
+run all
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top btn_in_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+close_sim
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+source btn_in_tb.tcl
+synth_design -top rp_top -part xc7z010clg400-1 -lint 
+synth_design -top rp_top -part xc7z010clg400-1 -lint 
+launch_runs synth_1 -jobs 10
+wait_on_run synth_1
+launch_runs impl_1 -jobs 10
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.runs/impl_1/rp_top.bit} [get_hw_devices xc7z010_1]
+current_hw_device [get_hw_devices xc7z010_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z010_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property PROGRAM.FILE {C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.runs/impl_1/rp_top.bit} [get_hw_devices xc7z010_1]
+program_hw_devices [get_hw_devices xc7z010_1]
+refresh_hw_device [lindex [get_hw_devices xc7z010_1] 0]
+synth_design -top rp_top -part xc7z010clg400-1 -lint 
+reset_run synth_1
+launch_runs synth_1 -jobs 10
+wait_on_run synth_1
+launch_runs impl_1 -jobs 10
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property PROGRAM.FILE {C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.runs/impl_1/rp_top.bit} [get_hw_devices xc7z010_1]
+program_hw_devices [get_hw_devices xc7z010_1]
+refresh_hw_device [lindex [get_hw_devices xc7z010_1] 0]
+synth_design -top rp_top -part xc7z010clg400-1 -lint 
+reset_run synth_1
+launch_runs synth_1 -jobs 10
+wait_on_run synth_1
+launch_runs impl_1 -jobs 10
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property PROGRAM.FILE {C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.runs/impl_1/rp_top.bit} [get_hw_devices xc7z010_1]
+program_hw_devices [get_hw_devices xc7z010_1]
+refresh_hw_device [lindex [get_hw_devices xc7z010_1] 0]
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top bcd_counter_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+save_wave_config {C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/btn_in_tb_behav.wcfg}
+add_files -fileset sim_1 -norecurse C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/btn_in_tb_behav.wcfg
+set_property xsim.view C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/btn_in_tb_behav.wcfg [get_filesets sim_1]
+update_compile_order -fileset sim_1
+launch_simulation
+close_sim
+launch_simulation
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+launch_simulation
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top btn_in_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+reset_simulation -simset sim_1 -mode behavioral
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
+launch_simulation

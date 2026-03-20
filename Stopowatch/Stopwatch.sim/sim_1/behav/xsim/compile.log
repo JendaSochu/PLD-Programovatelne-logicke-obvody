@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'btn_in'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/ce_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ce_gen'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/edge_detector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'edge_detector'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/sync_reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sync_reg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/SIM/btn_in_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'btn_in_tb'

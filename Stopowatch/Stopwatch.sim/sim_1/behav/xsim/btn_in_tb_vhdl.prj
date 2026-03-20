@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../SOURCES/btn_in.vhd" \
+"../../../../SOURCES/ce_gen.vhd" \
+"../../../../SOURCES/debouncer.vhd" \
+"../../../../SOURCES/edge_detector.vhd" \
+"../../../../SOURCES/sync_reg.vhd" \
+"../../../../SOURCES/SIM/btn_in_tb.vhd" \
+
+# Do not sort compile order
+nosort

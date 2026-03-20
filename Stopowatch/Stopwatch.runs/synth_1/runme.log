@@ -1,0 +1,291 @@
+
+*** Running vivado
+    with args -log rp_top.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source rp_top.tcl
+
+
+
+****** Vivado v2025.2 (64-bit)
+  **** SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+  **** IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+  **** SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+  **** Start of session at: Fri Mar 20 09:40:11 2026
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source rp_top.tcl -notrace
+Command: synth_design -top rp_top -part xc7z010clg400-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Device 21-403] Loading part xc7z010clg400-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 9740
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:03 . Memory (MB): peak = 1282.242 ; gain = 539.852
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'rp_top' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:16]
+INFO: [Synth 8-3491] module 'seg_disp_driver' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.runs/synth_1/.Xil/Vivado-13980-PC-SC660-29/realtime/seg_disp_driver_stub.vhdl:5' bound to instance 'seg_disp_driver_i' of component 'seg_disp_driver' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:119]
+INFO: [Synth 8-638] synthesizing module 'seg_disp_driver' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.runs/synth_1/.Xil/Vivado-13980-PC-SC660-29/realtime/seg_disp_driver_stub.vhdl:20]
+	Parameter G_DIV_FACT bound to: 500000 - type: integer 
+INFO: [Synth 8-3491] module 'ce_gen' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/ce_gen.vhd:6' bound to instance 'ce_gen_i' of component 'ce_gen' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:134]
+INFO: [Synth 8-638] synthesizing module 'ce_gen' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/ce_gen.vhd:18]
+	Parameter G_DIV_FACT bound to: 500000 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'ce_gen' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/ce_gen.vhd:18]
+	Parameter G_DEB_PERIOD bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'btn_in' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd:6' bound to instance 'btn_in_s_s_i' of component 'btn_in' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:146]
+INFO: [Synth 8-638] synthesizing module 'btn_in' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd:21]
+	Parameter G_DEB_PERIOD bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'sync_reg' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/sync_reg.vhd:6' bound to instance 'sync_reg_i' of component 'sync_reg' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd:67]
+INFO: [Synth 8-638] synthesizing module 'sync_reg' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/sync_reg.vhd:14]
+INFO: [Synth 8-256] done synthesizing module 'sync_reg' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/sync_reg.vhd:14]
+	Parameter G_DEB_PERIOD bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'debouncer' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/debouncer.vhd:6' bound to instance 'debouncer_i' of component 'debouncer' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd:76]
+INFO: [Synth 8-638] synthesizing module 'debouncer' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/debouncer.vhd:18]
+	Parameter G_DEB_PERIOD bound to: 3 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'debouncer' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/debouncer.vhd:18]
+INFO: [Synth 8-3491] module 'edge_detector' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/edge_detector.vhd:6' bound to instance 'edge_detector_i' of component 'edge_detector' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd:90]
+INFO: [Synth 8-638] synthesizing module 'edge_detector' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/edge_detector.vhd:16]
+INFO: [Synth 8-256] done synthesizing module 'edge_detector' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/edge_detector.vhd:16]
+INFO: [Synth 8-256] done synthesizing module 'btn_in' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd:21]
+	Parameter G_DEB_PERIOD bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'btn_in' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/btn_in.vhd:6' bound to instance 'btn_in_l_c_i' of component 'btn_in' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:158]
+INFO: [Synth 8-3491] module 'bcd_counter' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/bcd_counter.vhd:6' bound to instance 'bcd_counter_i' of component 'bcd_counter' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:173]
+INFO: [Synth 8-638] synthesizing module 'bcd_counter' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/bcd_counter.vhd:20]
+INFO: [Synth 8-256] done synthesizing module 'bcd_counter' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/bcd_counter.vhd:20]
+INFO: [Synth 8-3491] module 'stopwatch_fsm' declared at 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/stopwatch_fsm.vhd:6' bound to instance 'stopwatch_fsm_i' of component 'stopwatch_fsm' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:190]
+INFO: [Synth 8-638] synthesizing module 'stopwatch_fsm' [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/stopwatch_fsm.vhd:17]
+INFO: [Synth 8-256] done synthesizing module 'stopwatch_fsm' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/stopwatch_fsm.vhd:17]
+INFO: [Synth 8-256] done synthesizing module 'rp_top' (0#1) [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.vhd:16]
+WARNING: [Synth 8-7129] Port SRST in module ce_gen is either unconnected or has no load
+WARNING: [Synth 8-7129] Port CE in module ce_gen is either unconnected or has no load
+WARNING: [Synth 8-7129] Port BTN[3] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port BTN[2] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[3] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[2] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[1] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[0] in module rp_top is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 1402.016 ; gain = 659.625
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 1402.016 ; gain = 659.625
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 1402.016 ; gain = 659.625
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1402.016 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/seg_disp_driver/seg_disp_driver_in_context.xdc] for cell 'seg_disp_driver_i'
+Finished Parsing XDC File [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/seg_disp_driver/seg_disp_driver_in_context.xdc] for cell 'seg_disp_driver_i'
+Parsing XDC File [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.xdc]
+Finished Parsing XDC File [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/SOURCES/rp_top.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/rp_top_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/rp_top_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1484.422 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.004 . Memory (MB): peak = 1484.422 ; gain = 0.000
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 1484.422 ; gain = 742.031
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7z010clg400-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 1484.422 ; gain = 742.031
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 1484.422 ; gain = 742.031
+---------------------------------------------------------------------------------
+INFO: [Synth 8-802] inferred FSM for state register 'pres_st_reg' in module 'stopwatch_fsm'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+*
+                    idle |                              000 |                              000
+                     run |                              001 |                              001
+                    stop |                              010 |                              010
+                     lap |                              011 |                              011
+                 refresh |                              100 |                              100
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'pres_st_reg' using encoding 'sequential' in module 'stopwatch_fsm'
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 1484.422 ; gain = 742.031
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input   19 Bit       Adders := 1     
+	   2 Input    4 Bit       Adders := 4     
++---XORs : 
+	   2 Input      1 Bit         XORs := 2     
++---Registers : 
+	               19 Bit    Registers := 1     
+	                4 Bit    Registers := 10    
+	                1 Bit    Registers := 15    
++---Muxes : 
+	   2 Input    4 Bit        Muxes := 4     
+	   6 Input    3 Bit        Muxes := 1     
+	   2 Input    3 Bit        Muxes := 7     
+	   2 Input    1 Bit        Muxes := 9     
+	   6 Input    1 Bit        Muxes := 3     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 80 (col length:40)
+BRAMs: 120 (col length: RAMB18 40 RAMB36 20)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7129] Port BTN[3] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port BTN[2] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[3] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[2] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[1] in module rp_top is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SW[0] in module rp_top is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1484.422 ; gain = 742.031
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1604.641 ; gain = 862.250
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1623.902 ; gain = 881.512
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1624.645 ; gain = 882.254
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++------+----------------+----------+
+|      |BlackBox name   |Instances |
++------+----------------+----------+
+|1     |seg_disp_driver |         1|
++------+----------------+----------+
+
+Report Cell Usage: 
++------+---------------------+------+
+|      |Cell                 |Count |
++------+---------------------+------+
+|1     |seg_disp_driver_bbox |     1|
+|2     |BUFG                 |     1|
+|3     |CARRY4               |     5|
+|4     |LUT1                 |     5|
+|5     |LUT2                 |     2|
+|6     |LUT3                 |     6|
+|7     |LUT4                 |    14|
+|8     |LUT5                 |     7|
+|9     |LUT6                 |     4|
+|10    |FDRE                 |    72|
+|11    |FDSE                 |     1|
+|12    |IBUF                 |     3|
+|13    |OBUF                 |    21|
++------+---------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 6 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:11 ; elapsed = 00:00:16 . Memory (MB): peak = 1863.488 ; gain = 1038.691
+Synthesis Optimization Complete : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1863.488 ; gain = 1121.098
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1872.605 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 5 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1876.262 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Synth Design complete | Checksum: 90b194cb
+INFO: [Common 17-83] Releasing license: Synthesis
+43 Infos, 14 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:19 ; elapsed = 00:00:21 . Memory (MB): peak = 1876.262 ; gain = 1346.039
+Write ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1876.262 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/Stopowatch/Stopwatch.runs/synth_1/rp_top.dcp' has been generated.
+INFO: [Vivado 12-24828] Executing command : report_utilization -file rp_top_utilization_synth.rpt -pb rp_top_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Fri Mar 20 09:40:38 2026...
