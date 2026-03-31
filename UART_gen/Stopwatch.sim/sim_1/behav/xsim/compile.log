@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/uard_ce_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'uart_ce_gen'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/uart_tx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'uart_tx'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/SIM/uart_tx_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'uart_tx_tb'

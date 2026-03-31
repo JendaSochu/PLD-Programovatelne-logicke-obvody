@@ -1,0 +1,74 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri Mar 27 08:24:59 2026
+# Process ID         : 2628
+# Current directory  : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent16136 C:\Users\xsocha01\PLD-Programovatelne-logicke-obvody\UART_gen\Stopwatch.xpr
+# Log file           : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/vivado.log
+# Journal file       : C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen\vivado.jou
+# Running On         : PC-SC660-29
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i5-14600K
+# CPU Frequency      : 3494 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 34088 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 39188 MB
+# Available Virtual  : 32284 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/Stopwatch.xpr
+update_compile_order -fileset sources_1
+close [ open C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/uart_tx.vhd w ]
+add_files C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/uart_tx.vhd
+update_compile_order -fileset sources_1
+close [ open C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/uard_ce_gen.vhd w ]
+add_files C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/uard_ce_gen.vhd
+update_compile_order -fileset sources_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/SIM/uart_tx_tb.vhd w ]
+add_files -fileset sim_1 C:/Users/xsocha01/PLD-Programovatelne-logicke-obvody/UART_gen/SOURCES/SIM/uart_tx_tb.vhd
+update_compile_order -fileset sim_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top uart_tx_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source uart_tx_tb.tcl
+restart
+run all
+update_compile_order -fileset sources_1
+synth_design -top rp_top -part xc7z010clg400-1 -lint 
+launch_runs synth_1 -jobs 10
+wait_on_run synth_1
+launch_runs impl_1 -jobs 10
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+current_hw_device [get_hw_devices xc7z010_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z010_1] 0]
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+close_hw_manager
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+close_sim
